@@ -36,7 +36,7 @@ header nav {
     
 }
 
-/* Navigation bar within the header element */
+/* Navigation bar*/
 
 header nav ul {
     list-style-type: none;
@@ -45,6 +45,22 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+/* Background image */
+#hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
+
+/*Main section */
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 /*Text styles*/
@@ -58,16 +74,7 @@ p {
     font-size: 16px;
 }
 
-/* The background image */
-#hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-size: cover;
-    background-position: center;
-}
-
-/*Floats*/
+/*Main section*/
 
 .float-left {
     float: left;
@@ -77,16 +84,10 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+
 }
 
-/*Main section */
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-/* Displayed on the side of the main*/
+/* Aside section */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -98,7 +99,7 @@ aside {
     background-color: #2589bd;
 }
 
-/* These elements have a class atrribute as each explain what the users receive */
+/* Benefits*/
 .benefit-outcomes {
     margin-bottom: 32px;
     color: #ffffff;
@@ -111,14 +112,14 @@ aside {
 
 }
 
-/* These images each are above the description of the benefits outcome */
+/* img of the benefits outcome */
 .benefit-outcomes img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*Services*/
+/*Services Section*/
 
 .services-offered {
     margin-bottom: 20px;
