@@ -56,13 +56,6 @@ header nav ul li {
     background-position: center;
 }
 
-/*Main section */
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
 /*Text styles*/
 
 a {
@@ -75,6 +68,12 @@ p {
 }
 
 /*Main section*/
+
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 .float-left {
     float: left;
