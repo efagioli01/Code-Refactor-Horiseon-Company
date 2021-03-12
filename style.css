@@ -75,6 +75,9 @@ main {
     margin-left: 20px;
 }
 
+
+/*Floats*/
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -98,7 +101,7 @@ aside {
     background-color: #2589bd;
 }
 
-/* Benefits*/
+/* Benefits section*/
 .benefit-outcomes {
     margin-bottom: 32px;
     color: #ffffff;
@@ -129,6 +132,7 @@ aside {
     color: #ffffff;
 }
 
+/*img of service section*/
 .services-offered img {
     max-height: 200px;
 

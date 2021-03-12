@@ -1,27 +1,31 @@
 CODE REFACTOR
 
+The code in this activity has been refactored from the original to follow accessability standards
 
-This project has been refactored from the original to improve the code
-
-The code has been refactored to include semantic elements 
-
-CSS has been commented out
+HTML 
 
 
-HTML
+The title has been renamed to be Specific and descriptive to the company webiste 
 
-The title has been renamed to be more specific to the company website
+Semantic elements have been added for accessability and optimized for search engine 
 
-The links in the nav bar work as well as the Search Engine Optimization link which has been fixed to correctly link to the main section when clicked on
+All headings are in sequential order 
 
-All images have been given an alt description
+The elements have been shifted so when the structure is viewed the HTML elements follow a logical stucture
+
+An accessible ALT attribute has been added to all images
 
 
 CSS
 
-elements which have the same style have been consolidated into classes to improve reader view 
 
-while rainstorming in a study group I was introduced to scroll behavior. i added scroll-behavior: smooth to give the page a nice effect of a clean transition when clicking the links in the navigation bar
+Elements which are styled the same way have been given a class ID to consolidate on CSS sheet 
+
+Specified the scrolling behavior for scolling box to give the page a smooth transition from the navigation bar to the clickable links
+
+
+ ![screenshot](./assets/images/horiseon.PNG)
+
 
 
 
