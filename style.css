@@ -9,7 +9,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Header*/
 
 header {
     padding: 20px;
@@ -22,6 +21,8 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
+/*gradient effect*/
 
 header h1 .seo {
     color: #d9dcd6;
@@ -48,6 +49,7 @@ header nav ul li {
 }
 
 /* Background image */
+
 #hero {
     height: 800px;
     width: 100%;
@@ -67,7 +69,6 @@ p {
     font-size: 16px;
 }
 
-/*Main section*/
 
 main {
     width: 75%;
@@ -75,6 +76,26 @@ main {
     margin-left: 20px;
 }
 
+/* Benefits section*/
+
+.benefit-outcomes {
+    margin-bottom: 32px;
+    color: #ffffff;
+
+}
+
+.benefit-outcomes h2 {
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+
+.benefit-outcomes img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 
 /*Floats*/
 
@@ -90,6 +111,7 @@ main {
 }
 
 /* Aside section */
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -99,26 +121,6 @@ aside {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-/* Benefits section*/
-.benefit-outcomes {
-    margin-bottom: 32px;
-    color: #ffffff;
-
-}
-
-.benefit-outcomes h2 {
-    margin-bottom: 10px;
-    text-align: center;
-
-}
-
-/* img of the benefits outcome */
-.benefit-outcomes img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /*Services Section*/
@@ -132,13 +134,10 @@ aside {
     color: #ffffff;
 }
 
-/*img of service section*/
 .services-offered img {
     max-height: 200px;
 
 }
-
-/*Footer*/
 
 footer {
     padding: 30px;
