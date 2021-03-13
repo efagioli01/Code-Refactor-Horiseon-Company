@@ -4,7 +4,7 @@
 ## Description
 
 
-This project's goal was to refactor the code of the original Horiseon company website to improve its accessability. st
+This goal for this assignment was to refactor the code of the original Horiseon company website to improve its accessability
 
 
 ## HTML 
@@ -35,8 +35,9 @@ Specified the scrolling behavior for scolling box to give the page a smooth tran
 
 ## Links
 
-* https://efagioli01.github.io/horiseon-refactor/
-* https://efagioli01.github.io/horiseon-refactor/
+* [GitHub Repository](https://github.com/efagioli01/horiseon-refactor)
+* [Deployed Application](https://efagioli01.github.io/horiseon-refactor/)
+
 
 
 
