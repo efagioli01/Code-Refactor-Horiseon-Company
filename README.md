@@ -35,8 +35,8 @@ Specified the scrolling behavior for scolling box to give the page a smooth tran
 
 ## Links
 
-* 
-* 
+* https://efagioli01.github.io/horiseon-refactor/
+* https://efagioli01.github.io/horiseon-refactor/
 
 
 
